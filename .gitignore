@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+
+# env & secrets
+.env
+
+# logs & coverage
+logs/
+*.log
+coverage/
+
+# build outputs
+dist/
+.out/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
